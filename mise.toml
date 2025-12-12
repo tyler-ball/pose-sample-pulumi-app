@@ -1,6 +1,6 @@
 [tools]
 pulumi = 'latest'
 node = '22'
-gh = '2.83.0'
+gh = '2.83.1'
 
 "go:github.com/pulumi/esc/cmd/esc" = 'latest'
