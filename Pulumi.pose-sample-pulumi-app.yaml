@@ -1,6 +1,0 @@
-environment:
-  - logins/dev-sandbox
-config:
-  aws:defaultTags:
-    tags:
-      Owner: "Neo"

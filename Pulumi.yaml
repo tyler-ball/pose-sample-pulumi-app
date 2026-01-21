@@ -1,7 +1,0 @@
-name: pose-sample-app
-description: A simple AWS serverless JavaScript Pulumi program
-runtime:
-  name: nodejs
-  options:
-    typescript: true
-    packagemanager: npm
