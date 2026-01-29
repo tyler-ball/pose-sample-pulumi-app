@@ -1,5 +1,3 @@
-environment:
-  - logins/dev-sandbox
 config:
   aws:defaultTags:
     tags:
